@@ -1,1 +1,10 @@
-
+android {
+    compileSdkVersion 34
+    defaultConfig {
+        applicationId "com.tsega.app"
+        minSdkVersion 21
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0.0"
+    }
+}
