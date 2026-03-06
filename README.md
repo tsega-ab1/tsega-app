@@ -1,1 +1,0 @@
-# tsega_app
